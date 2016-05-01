@@ -1,5 +1,7 @@
-Toto je verze C
+Toto je verze X 
 Nejlepsi verze dokumentu.
 12345.
+
+Souhlasim.
 
 
