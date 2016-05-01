@@ -1,7 +1,7 @@
-Toto je verze X 
+Toto je verze X9 
 Nejlepsi verze dokumentu.
-12345.
+123456789.
 
-Souhlasim.
+Nee.
 
 
