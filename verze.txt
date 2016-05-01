@@ -1,6 +1,5 @@
-Toto je verze A.
-Puvodni verze dokumentu.
+Toto je verze B.
+Upravena verze dokumentu.
+123
 
-
-bude pokracovat...
 
