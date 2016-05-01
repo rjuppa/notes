@@ -1,2 +1,6 @@
 Toto je verze A.
 Puvodni verze dokumentu.
+
+
+bude pokracovat...
+
